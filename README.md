@@ -1,24 +1,24 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Alberto Espejel
 
-- This is
-- an unordered
-- list
+## Mexico
 
-1. This is
-2. an ordered
-3. list
+I live in the city of Mexico
 
-Here is `some code` in the middle of a sentence.
+Two of my favorite activities is writing and watching tv
 
-```
-This is
-a block
-of code
-```
+I like the following series:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *Game of thrones*
+- *Breaking Bad*
+- *The Big Bang Theory*
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+#I use to play GTA Online
+
+I consider myself a very curious person that's the reason learned a few of programming
+
+Contact:
+
+1. *i.feel.frygt.og.baeven@gmail.com*
+
+Contact me to play videogames [on Fb](https://www.facebook.com/alberto.espejel.369).
+
