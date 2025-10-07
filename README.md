@@ -2,6 +2,9 @@
 
 ## Mexico
 
+<img width="272" height="331" alt="Screenshot 2025-10-05 at 18 47 22" src="https://github.com/user-attachments/assets/cabf0cbe-7025-41b0-9734-dae074911a23" />
+
+
 I live in the city of Mexico
 
 Two of my favorite activities is writing and watching tv
