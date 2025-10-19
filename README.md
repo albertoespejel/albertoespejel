@@ -1,6 +1,6 @@
 # Alberto Espejel
 
-## Software Engineering
+## About Software
 
 <img width="435" height="331" alt="Screenshot 2025-10-18 at 22 42 25" src="https://github.com/user-attachments/assets/84840834-9581-4a19-85cf-c44481cfd8fc" />
 
