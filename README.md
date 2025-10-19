@@ -30,7 +30,7 @@ I consider myself a very optimistic person about the future, and excited to buil
 Contact:
 
 1. *emontesdeoca1998@gmail.com*
-2. aethers.live
+2. [aethers.live](aethers.live)
 
 
 
