@@ -21,7 +21,7 @@ I live in Mexico City
 
 Two of my favorite activities is reading and watching youtube videos about philosophy
 
-#I use to play online videogames, one of the games I particularly love is AOE II
+I use to play online videogames, one of the games I particularly love is AOE II
 
 I consider myself a very optimistic person about the future, and excited to build software stuff that can be helpful for people, also love music and like to produce in my free time.
 
