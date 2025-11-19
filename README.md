@@ -6,9 +6,9 @@
 
 
 
-**My primary stack is Java and Spring Boot for back end development**
+**My primary stack is Java and Guice for back end development**
 
-I generally like to spread the love among different coding languages and frameworks, having mostly foused on Java/Spring Boot due to its worldwide use among companies for their back end systems, also like Swift for iOS development and I am a wanna be C/C++, feel interested in the complex systems that can be built on C but I am not very good at it yet.
+I generally like to spread the love among different coding languages and frameworks, having mostly foused on Java/Guice due to its worldwide use among companies for their back end systems and auditability, also like Swift for iOS development and I am a wanna be C/C++, feel interested in the complex systems that can be built on C but I am not very good at it yet.
 
 **About me**
 
