@@ -12,16 +12,11 @@ I generally like to spread the love among different coding languages and framewo
 
 **About me**
 
-<img width="269" height="267" alt="Screenshot 2025-10-18 at 22 43 20" src="https://github.com/user-attachments/assets/b51f2d1a-75f8-4fa7-8a5b-a76f26d2cd64" />
-
-
-
-
 I live in Mexico City
 
-Two of my favorite activities is reading and watching youtube videos about philosophy
+Two of my favorite activities is philosophy and practicing sports.
 
-I use to play online videogames, one of the games I particularly love is AOE II
+I use to play online videogames, one of the games I particularly love is AOE II.
 
 I consider myself a very optimistic person about the future, and excited to build software stuff that can be helpful for people, also love music and like to produce in my free time.
 
@@ -29,8 +24,8 @@ I consider myself a very optimistic person about the future, and excited to buil
 
 Contact:
 
-1. *emontesdeoca1998@gmail.com*
-2. [aethers.live](https://aethers.live/)
+1. *i.feel.frygt.og.baeven@gmail.com*
+2. [aethers.live](https://kurxxed.com/)
 
 
 
