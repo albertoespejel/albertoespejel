@@ -25,7 +25,7 @@ I consider myself a very optimistic person about the future, and excited to buil
 Contact:
 
 1. *i.feel.frygt.og.baeven@gmail.com*
-2. [aethers.live](https://kurxxed.com/)
+2. [kurxxed.com](https://kurxxed.com/)
 
 
 
